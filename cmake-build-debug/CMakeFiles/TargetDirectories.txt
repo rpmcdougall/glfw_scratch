@@ -1,0 +1,3 @@
+/Users/rpmmcdougall/dev/glfw_scratch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/rpmmcdougall/dev/glfw_scratch/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rpmmcdougall/dev/glfw_scratch/cmake-build-debug/CMakeFiles/glfw_scratch.dir
